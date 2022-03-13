@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","Conn_02x08_Counter_Clockwise","PinHeader_2x08_P2.54mm_Vertical",195.125000,-115.845000,90.000000,top
+"J2","Screw_Terminal_01x02","TerminalBlock_bornier-2_P5.08mm",212.000000,-108.080000,90.000000,top
+"J3","USB_A","USB_A_CNCTech_1001-011-01101_Horizontal",183.750000,-122.000000,-90.000000,top
+"U1","ATtiny45V-10P","DIP-8_W7.62mm_Socket",198.247000,-109.093000,90.000000,top

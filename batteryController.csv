@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,JLCPCB Part #(optional)
+Conn_02x08_Counter_Clockwise,J1,Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical,
+Screw_Terminal_01x02,J2,TerminalBlock:TerminalBlock_bornier-2_P5.08mm,
+USB_A,J3,Connector_USB:USB_A_CNCTech_1001-011-01101_Horizontal,
+2k,R1,Resistor_SMD:R_0603_1608Metric,
+680,R2,Resistor_SMD:R_0603_1608Metric,
+2k,R3,Resistor_SMD:R_0603_1608Metric,
+680,R4,Resistor_SMD:R_0603_1608Metric,
+ATtiny45V-10P,U1,Package_DIP:DIP-8_W7.62mm_Socket,
+L7806CV,U2,Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown,
+L78L05_SOT89,U3,Package_TO_SOT_SMD:SOT-89-3,
